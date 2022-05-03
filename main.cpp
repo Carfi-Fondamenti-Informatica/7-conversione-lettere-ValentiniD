@@ -5,7 +5,6 @@ using namespace std;
 
 int main() {
     char a;
-    cout << "Inserire un carattere: ";
     cin >> a;
     if (lettere (a)) {
         cout << conversione (a);
