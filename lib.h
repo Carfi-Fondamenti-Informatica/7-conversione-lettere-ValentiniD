@@ -7,6 +7,6 @@
 
 #endif //CONVERSIONE_LETTERE_LIB_H
 
-bool lettere(char);
+bool lettere(int);
 
-char conversione (char);
+char conversione (int);
